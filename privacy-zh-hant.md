@@ -12,4 +12,4 @@ ZenNote 會以匿名形式通過 Fabric 服務收集崩潰日誌。
 
 ### 聯系我們
 
-zennable@gmail.com
+[zennable@gmail.com](mailto:zennable@gmail.com)
